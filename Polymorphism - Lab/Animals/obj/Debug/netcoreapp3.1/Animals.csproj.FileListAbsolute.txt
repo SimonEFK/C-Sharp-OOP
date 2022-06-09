@@ -1,0 +1,14 @@
+C:\Users\simon\source\repos\Polymorphism - Lab\Animals\bin\Debug\netcoreapp3.1\Animals.exe
+C:\Users\simon\source\repos\Polymorphism - Lab\Animals\bin\Debug\netcoreapp3.1\Animals.deps.json
+C:\Users\simon\source\repos\Polymorphism - Lab\Animals\bin\Debug\netcoreapp3.1\Animals.runtimeconfig.json
+C:\Users\simon\source\repos\Polymorphism - Lab\Animals\bin\Debug\netcoreapp3.1\Animals.runtimeconfig.dev.json
+C:\Users\simon\source\repos\Polymorphism - Lab\Animals\bin\Debug\netcoreapp3.1\Animals.dll
+C:\Users\simon\source\repos\Polymorphism - Lab\Animals\bin\Debug\netcoreapp3.1\Animals.pdb
+C:\Users\simon\source\repos\Polymorphism - Lab\Animals\obj\Debug\netcoreapp3.1\Animals.csproj.AssemblyReference.cache
+C:\Users\simon\source\repos\Polymorphism - Lab\Animals\obj\Debug\netcoreapp3.1\Animals.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\simon\source\repos\Polymorphism - Lab\Animals\obj\Debug\netcoreapp3.1\Animals.AssemblyInfoInputs.cache
+C:\Users\simon\source\repos\Polymorphism - Lab\Animals\obj\Debug\netcoreapp3.1\Animals.AssemblyInfo.cs
+C:\Users\simon\source\repos\Polymorphism - Lab\Animals\obj\Debug\netcoreapp3.1\Animals.csproj.CoreCompileInputs.cache
+C:\Users\simon\source\repos\Polymorphism - Lab\Animals\obj\Debug\netcoreapp3.1\Animals.dll
+C:\Users\simon\source\repos\Polymorphism - Lab\Animals\obj\Debug\netcoreapp3.1\Animals.pdb
+C:\Users\simon\source\repos\Polymorphism - Lab\Animals\obj\Debug\netcoreapp3.1\Animals.genruntimeconfig.cache

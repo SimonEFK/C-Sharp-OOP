@@ -1,0 +1,48 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.1.32421.90
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Vehicles", "Vehicles", "{BBB94961-53A2-4338-81CA-95EB68215E37}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Vehicles", "Vehicles\Vehicles.csproj", "{F3C1518C-D05A-453C-94CE-8417F0BC9623}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Vehicles Extension", "Vehicles Extension", "{AF74E4D2-0CEF-4A94-A6BF-11C8AB367401}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Vehicles Extension", "Vehicles Extension\Vehicles Extension.csproj", "{E13F294A-1C19-4298-B8FD-CCA3A49C4A51}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Raiding", "Raiding", "{352E43C4-18EB-444B-B705-6B998F559B2F}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Raiding", "Raiding\Raiding.csproj", "{233B965D-6090-4A55-9A45-A6CEB058A474}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{F3C1518C-D05A-453C-94CE-8417F0BC9623}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F3C1518C-D05A-453C-94CE-8417F0BC9623}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F3C1518C-D05A-453C-94CE-8417F0BC9623}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F3C1518C-D05A-453C-94CE-8417F0BC9623}.Release|Any CPU.Build.0 = Release|Any CPU
+		{E13F294A-1C19-4298-B8FD-CCA3A49C4A51}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E13F294A-1C19-4298-B8FD-CCA3A49C4A51}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{E13F294A-1C19-4298-B8FD-CCA3A49C4A51}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E13F294A-1C19-4298-B8FD-CCA3A49C4A51}.Release|Any CPU.Build.0 = Release|Any CPU
+		{233B965D-6090-4A55-9A45-A6CEB058A474}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{233B965D-6090-4A55-9A45-A6CEB058A474}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{233B965D-6090-4A55-9A45-A6CEB058A474}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{233B965D-6090-4A55-9A45-A6CEB058A474}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(NestedProjects) = preSolution
+		{F3C1518C-D05A-453C-94CE-8417F0BC9623} = {BBB94961-53A2-4338-81CA-95EB68215E37}
+		{E13F294A-1C19-4298-B8FD-CCA3A49C4A51} = {AF74E4D2-0CEF-4A94-A6BF-11C8AB367401}
+		{233B965D-6090-4A55-9A45-A6CEB058A474} = {352E43C4-18EB-444B-B705-6B998F559B2F}
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {33602958-8A21-4D3D-872D-F078FDE720B1}
+	EndGlobalSection
+EndGlobal

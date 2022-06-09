@@ -1,0 +1,14 @@
+C:\Users\simon\source\repos\Polymorphism - Lab\Operations\bin\Debug\netcoreapp3.1\Operations.exe
+C:\Users\simon\source\repos\Polymorphism - Lab\Operations\bin\Debug\netcoreapp3.1\Operations.deps.json
+C:\Users\simon\source\repos\Polymorphism - Lab\Operations\bin\Debug\netcoreapp3.1\Operations.runtimeconfig.json
+C:\Users\simon\source\repos\Polymorphism - Lab\Operations\bin\Debug\netcoreapp3.1\Operations.runtimeconfig.dev.json
+C:\Users\simon\source\repos\Polymorphism - Lab\Operations\bin\Debug\netcoreapp3.1\Operations.dll
+C:\Users\simon\source\repos\Polymorphism - Lab\Operations\bin\Debug\netcoreapp3.1\Operations.pdb
+C:\Users\simon\source\repos\Polymorphism - Lab\Operations\obj\Debug\netcoreapp3.1\Operations.csproj.AssemblyReference.cache
+C:\Users\simon\source\repos\Polymorphism - Lab\Operations\obj\Debug\netcoreapp3.1\Operations.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\simon\source\repos\Polymorphism - Lab\Operations\obj\Debug\netcoreapp3.1\Operations.AssemblyInfoInputs.cache
+C:\Users\simon\source\repos\Polymorphism - Lab\Operations\obj\Debug\netcoreapp3.1\Operations.AssemblyInfo.cs
+C:\Users\simon\source\repos\Polymorphism - Lab\Operations\obj\Debug\netcoreapp3.1\Operations.csproj.CoreCompileInputs.cache
+C:\Users\simon\source\repos\Polymorphism - Lab\Operations\obj\Debug\netcoreapp3.1\Operations.dll
+C:\Users\simon\source\repos\Polymorphism - Lab\Operations\obj\Debug\netcoreapp3.1\Operations.pdb
+C:\Users\simon\source\repos\Polymorphism - Lab\Operations\obj\Debug\netcoreapp3.1\Operations.genruntimeconfig.cache

@@ -1,0 +1,75 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.1.32421.90
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Person", "Person", "{AB4F57F9-ADAE-40E5-A09B-F9060C26241F}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Person", "Person\Person.csproj", "{6BB3F3CD-8386-47A3-86CC-2390A07533A7}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Zoo", "Zoo", "{B4E2EC76-7C50-4096-9A0F-D9017743DF5B}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Zoo", "Zoo\Zoo.csproj", "{AA6A8159-FF32-4D7B-B531-4AA02FD6E174}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Players and Monsters", "Players and Monsters", "{3A245B5C-BC93-4A03-B017-3A816C3EC3D4}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Players and Monsters", "Players and Monsters\Players and Monsters.csproj", "{433BEA25-B90B-4342-8436-F4D910C96CC3}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Need for Speed", "Need for Speed", "{135CA792-5DD0-4DEB-90A7-C424ACD3D1B5}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Need for Speed", "Need for Speed\Need for Speed.csproj", "{F2AFF893-B686-49CE-9A60-EC0F1DCDFBC9}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Restaurant", "Restaurant", "{4C279654-264D-498F-9D07-2042BCFDDA1F}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Restaurant", "Restaurant\Restaurant.csproj", "{5D7CB990-8DB8-4DDE-9669-2A50C24BC611}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Animals", "Animals", "{9F2F8ED0-D5F6-46F3-9DCB-CA1D71235196}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Animals", "Animals\Animals.csproj", "{743DA04D-32CA-4046-B7D3-421EA4C46B2D}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{6BB3F3CD-8386-47A3-86CC-2390A07533A7}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{6BB3F3CD-8386-47A3-86CC-2390A07533A7}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{6BB3F3CD-8386-47A3-86CC-2390A07533A7}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{6BB3F3CD-8386-47A3-86CC-2390A07533A7}.Release|Any CPU.Build.0 = Release|Any CPU
+		{AA6A8159-FF32-4D7B-B531-4AA02FD6E174}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{AA6A8159-FF32-4D7B-B531-4AA02FD6E174}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{AA6A8159-FF32-4D7B-B531-4AA02FD6E174}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{AA6A8159-FF32-4D7B-B531-4AA02FD6E174}.Release|Any CPU.Build.0 = Release|Any CPU
+		{433BEA25-B90B-4342-8436-F4D910C96CC3}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{433BEA25-B90B-4342-8436-F4D910C96CC3}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{433BEA25-B90B-4342-8436-F4D910C96CC3}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{433BEA25-B90B-4342-8436-F4D910C96CC3}.Release|Any CPU.Build.0 = Release|Any CPU
+		{F2AFF893-B686-49CE-9A60-EC0F1DCDFBC9}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F2AFF893-B686-49CE-9A60-EC0F1DCDFBC9}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F2AFF893-B686-49CE-9A60-EC0F1DCDFBC9}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F2AFF893-B686-49CE-9A60-EC0F1DCDFBC9}.Release|Any CPU.Build.0 = Release|Any CPU
+		{5D7CB990-8DB8-4DDE-9669-2A50C24BC611}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{5D7CB990-8DB8-4DDE-9669-2A50C24BC611}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{5D7CB990-8DB8-4DDE-9669-2A50C24BC611}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{5D7CB990-8DB8-4DDE-9669-2A50C24BC611}.Release|Any CPU.Build.0 = Release|Any CPU
+		{743DA04D-32CA-4046-B7D3-421EA4C46B2D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{743DA04D-32CA-4046-B7D3-421EA4C46B2D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{743DA04D-32CA-4046-B7D3-421EA4C46B2D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{743DA04D-32CA-4046-B7D3-421EA4C46B2D}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(NestedProjects) = preSolution
+		{6BB3F3CD-8386-47A3-86CC-2390A07533A7} = {AB4F57F9-ADAE-40E5-A09B-F9060C26241F}
+		{AA6A8159-FF32-4D7B-B531-4AA02FD6E174} = {B4E2EC76-7C50-4096-9A0F-D9017743DF5B}
+		{433BEA25-B90B-4342-8436-F4D910C96CC3} = {3A245B5C-BC93-4A03-B017-3A816C3EC3D4}
+		{F2AFF893-B686-49CE-9A60-EC0F1DCDFBC9} = {135CA792-5DD0-4DEB-90A7-C424ACD3D1B5}
+		{5D7CB990-8DB8-4DDE-9669-2A50C24BC611} = {4C279654-264D-498F-9D07-2042BCFDDA1F}
+		{743DA04D-32CA-4046-B7D3-421EA4C46B2D} = {9F2F8ED0-D5F6-46F3-9DCB-CA1D71235196}
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {568251E1-2194-40C5-B897-6685F82229A8}
+	EndGlobalSection
+EndGlobal
